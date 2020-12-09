@@ -1,1 +1,3 @@
-test
+Requirments:
+Keras
+Tensorflow
