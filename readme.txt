@@ -1,3 +1,0 @@
-Requirments:
-Keras
-Tensorflow
